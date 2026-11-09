@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hangman_game/hangman_game.vcxproj" Id="b3b86546-f937-4ee2-97ca-b69ebcc8aa73" />
+</Solution>
